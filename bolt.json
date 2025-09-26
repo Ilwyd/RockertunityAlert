@@ -1,0 +1,6 @@
+{
+    "name": "Rockertunity Alert",
+    "version": "0.0.1",
+    "description": "A plugin which alerts you when a new Rockertunity has spawned.",
+    "main": "main.lua"
+  }
