@@ -1,0 +1,1 @@
+RockertunityAlert is a Bolt plugin which plays a notification sound whenever a new rockertunity spawns near you
